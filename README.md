@@ -1,18 +1,22 @@
-Hi there 👋
 💫 About Me:
 
-"My name is Shubham Raghunath Jadhav, and I am a passionate full-stack developer with a background in IT. I hold a Post Graduate Diploma in Advanced Computing (PG-DAC) from CDAC ACTS Pune, which has strengthened my technical expertise in various technologies like Java, Spring Boot, React, and more. I have developed several projects, including my latest PrimeFoodNetwork, an online food ordering and management system using MERN and Spring Boot. I regularly work on improving my coding skills by solving challenges on LeetCode and enjoy sharing my projects on GitHub. I am focused on building scalable applications and staying up to date with the latest technologies."
+"My name is Shubham Raghunath Jadhav, and I am a passionate full-stack developer with a strong foundation in IT. I hold a Post Graduate Diploma in Advanced Computing (PG-DAC) from CDAC ACTS Pune, which has equipped me with skills in Java, Spring Boot, and React. I enjoy working on full-stack projects, such as my latest project, PrimeFoodNetwork, an online food ordering system built using MERN and Spring Boot. I actively improve my coding skills by solving challenges on LeetCode and sharing my projects on GitHub. Currently, I'm focused on mastering advanced Java, building scalable applications, and exploring new technologies."
 
-🌐 Socials: LinkedIn
+🌐 Socials:
 
+LinkedIn
 💻 Tech Stack:
 
-Java | JavaScript | C++ | C | SQL | React | React Native | Node.js | Express.js | HTML5 | CSS3 | Redux | TailwindCSS | Spring Boot | MongoDB | MySQL | Docker | Git | GitHub | JWT | Postman | Bootstrap | Jira | Jenkins | NPM | Swagger | Netlify | GitHub Pages | Apache Tomcat | Kubernetes | Entity Framework
-
+Languages: Java | JavaScript | C++ | C | SQL
+Frontend: React | React Native | HTML5 | CSS3 | Bootstrap | TailwindCSS | Redux
+Backend: Spring Boot | Node.js | Express.js | JWT | MongoDB | MySQL
+Tools: Git | Docker | Postman | GitHub | Swagger | Netlify | GitHub Pages | Jenkins | Apache Tomcat | Kubernetes | Jira
 📊 GitHub Stats:
 
 
-Popular Repositories:
-PrimeFoodNetwork: Developed an online food ordering system using Spring Boot and React, allowing restaurant owners to manage orders and users to browse, place orders, and more.
-LeetcodeAnswers: A collection of LeetCode problem solutions in Java.
-Java-Programs: Various Java programs, covering fundamental to advanced concepts.
+📫 Contact Me:
+
+Email: shubhamrjadhav07@gmail.com
+Mobile: +91 7559283827
+GitHub: github.com/Shubhamrjadhav07
+LinkedIn: linkedin.com/in/shubham-jadhav-946981158
